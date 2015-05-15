@@ -1,30 +1,21 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+**Woramet Muangsiri** is a full-time iOS developer at [Taskworld](https://www.taskworld.com/).
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+you can check out my [Github here](https://github.com/kindraywind/)
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Education
+- **Keio University (慶應義塾大学)**, Tokyo Japan  
+Master degree (2015-)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+- **Kasetsart University**, Bangkok Thailand  
+Bechelor of Engineering (2009-2012)  
+Major in Software and knowledge engineering
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+- **Suankularb Wittayalai**, Bangkok Thailand  
+High School (2002-2008)  
+Mathematics & Science program

@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Kindraywind
 tagline:          My very own website.
 url:              Kindraywind.github.io
-paginate:         1
+paginate:         3
 baseurl:          /
 author:
   name:           Woramet Muangsiri
